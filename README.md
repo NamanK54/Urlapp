@@ -1,5 +1,7 @@
 # Urlapp
+
 URL Shorter application
+
 Hi, i have created a a web application that allows users to shorten long URLs into shorter, more manageable links, similar to tinyurl.com. The shortened URLs should redirect users to the original long URL when clicked. Additionally, the application proivde the url expiration period, custom url creation etc.
 Its a simple to use site with simple user frames and interface without much use of javascript.
 Although it also provide features such as login, register etc..
